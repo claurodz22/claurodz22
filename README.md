@@ -17,7 +17,9 @@ Soy una apasionada de la tecnología y la programación. Me encanta explorar nue
 - **admin-postgraduate-api**: API desarrollada en Python para la administración de posgrado. [Repositorio](https://github.com/claurodz22/admin-postgraduate-api)
 - **juegocontadorvue**: Juego contador desarrollado con Vue.js. [Repositorio](https://github.com/claurodz22/juegocontadorvue)
 - **claudia-juego-vue-**: Otro proyecto de juego utilizando Vue.js. [Repositorio](https://github.com/claurodz22/claudia-juego-vue-)
-- **claudia-repositorio**: Repositorio con diversos proyectos en JavaScript. [Repositorio](https://github.com/claurodz22/claudia-repositorio)
+- **claudia-repositorio**: Portafolio elaborado con Next.js. [Repositorio](https://github.com/claurodz22/claudia-repositorio)
+- **IoTGmailAlarmas**: Proyecto de alarmas utilizando IoT y notificaciones vía Gmail. [Repositorio](https://github.com/claurodz22/IoTGmailAlarmas)
+- **proyectosRaspberryPiPico**: Repositorios con proyectos desarrollados en Raspberry Pi Pico y Pico W. [Repositorio](https://github.com/claurodz22/proyectosRaspberryPiPico)
 
 ## 🛠️ Tecnologías y Herramientas
 
