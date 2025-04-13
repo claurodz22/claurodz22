@@ -13,8 +13,8 @@ Soy una apasionada de la tecnología y la programación. Me encanta explorar nue
 ## 🚀 Proyectos Destacados
 
 - **I2C**: Implementación de I2C en ensamblador 8085. [Repositorio](https://github.com/claurodz22/I2C)
-- **admin-postgraduate**: Proyecto de administración de posgrado utilizando JavaScript. [Repositorio](https://github.com/claurodz22/admin-postgraduate)
-- **admin-postgraduate-api**: API desarrollada en Python para la administración de posgrado. [Repositorio](https://github.com/claurodz22/admin-postgraduate-api)
+- **admin-postgraduate**: Proyecto de administración de posgrado utilizando React + Next.js + Tailwind. [Repositorio](https://github.com/claurodz22/admin-postgraduate)
+- **admin-postgraduate-api**: API desarrollada en Python para la administración de posgrado DRF + PostgreSQL como BDD. [Repositorio](https://github.com/claurodz22/admin-postgraduate-api)
 - **juegocontadorvue**: Juego contador desarrollado con Vue.js. [Repositorio](https://github.com/claurodz22/juegocontadorvue)
 - **claudia-juego-vue-**: Otro proyecto de juego utilizando Vue.js. [Repositorio](https://github.com/claurodz22/claudia-juego-vue-)
 - **claudia-repositorio**: Portafolio elaborado con Next.js. [Repositorio](https://github.com/claurodz22/claudia-repositorio)
